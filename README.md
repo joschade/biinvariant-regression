@@ -43,4 +43,3 @@ To run experiment files, make sure that the working directory is set to
 ```
 your\path\to\biinvariant-regression\  
 ```
-# biinvariant-regression
